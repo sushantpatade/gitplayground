@@ -1,1 +1,4 @@
 Hello world in main branch
+ANd now new line is added in gitbranch1
+create branch
+git checkout -b <branchname>
